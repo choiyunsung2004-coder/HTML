@@ -1,18 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-  h1 {
-    text-align: center;
-    }
-</style>
-</head>
-<body>
+<div align="center">
+  
+# HTML by Yunsung Choi
 
-<h1>KNES 381 HTML by Yunsung Choi</h1>
-<p>This is the first line.</p>
+</div>
 
-<p>This is the second line.</p>
-
-</body>
-</html>
