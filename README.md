@@ -4,4 +4,9 @@
 
 </div>
 
-![Example Image](2048x1365-Oak-trees-SEO-GettyImages-90590330-b6bfe8b.jpg)
+<img align="left" src="2048x1365-Oak-trees-SEO-GettyImages-90590330-b6bfe8b.jpg" alt="Alt text" width="300">
+
+This text will be next to the image
+
+<br clear="left"/> 
+
