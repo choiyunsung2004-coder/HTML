@@ -11,3 +11,6 @@ This text will be next to the image
 <br clear="left"/> 
 
 [HYPERLINK](Hyperlink_README.md)
+
+Today is February, 16<sup>th</sup>, 2026
+
